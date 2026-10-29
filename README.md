@@ -1,42 +1,32 @@
-<sub><code>NOTEBOOK · 2026</code> &nbsp;·&nbsp; ● open to PhD & research opportunities</sub>
+<sub><code>NOTEBOOK · 2026</code> &nbsp;·&nbsp; ● open to opportunities</sub>
 
 # Morel Yemalin KPAVODE
 
-**Data & AI for science, for real impact in Africa.**<br>
+**Python backend & data developer — I turn data into working software.**<br>
 ↳ *Field, data, model — in that order.*
 
-I'm a **Google DeepMind Scholar** in the **AI for Science Master's** at [AIMS South Africa](https://ai.aims.ac.za/) (MSc Mathematical Sciences, Stellenbosch University, 2026–2027). I use data and computational tools to solve real-world problems, with a focus on climate and the environment in West Africa.
+I build Python backends, APIs and data pipelines, test-first. From 2025 to 2026, I was an R&D Developer at the **Inov Services Research Lab** in Cotonou, where I built technical projects and supervised a team of interns. I'm currently doing an MSc in AI for Science at AIMS South Africa.
 
 ---
 
-### 📓 Research
+### 🛠️ What I do
 
-First author of two papers accepted and presented at **EAI AFRICATEK 2026** (proceedings forthcoming), written at the Inov Services Research Lab in Cotonou:
+- **Backend & APIs** — Python, REST APIs, Django, PostgreSQL / SQL
+- **Test-driven development** — tests first, clean and modular code
+- **Data engineering** — ETL pipelines: extract, clean, transform, load
+- **Data analysis** — Pandas, NumPy, Matplotlib, Seaborn
+- **Machine learning** — Scikit-learn, deep learning
+- **Ways of working** — Agile / Scrum, Git, mentoring
 
-- *A Pattern Scaling Approach Based on Vapor Pressure Deficit for Air Quality in West Africa: Modeling and Projecting PM2.5 Concentrations in Cotonou, Benin (2025–2100)*
-- *State of Art of Air Quality Monitoring in West Africa. Specific Case of Benin: Toward a Framework for Tools and Reproducible Methodologies for Long-Term Modeling*
+### 🧪 Inov Services Research Lab · R&D Developer (2025 – 2026)
 
-**Currently exploring:** AI for climate & environment · ecology · computer vision
+- Built and contributed to R&D projects in AI and software engineering
+- Supervised interns on five projects: conversational AI, data pipelines, cybersecurity, distributed systems and UX/UI design — planned their work, followed their progress and helped them deliver
+- Data and modeling work on air quality in West Africa (2 papers presented at EAI AFRICATEK 2026)
 
-### 🧭 Path
+### 🧰 Stack
 
-| When | What |
-|---|---|
-| 2026 – 2027 | MSc Mathematical Sciences (AI for Science), AIMS South Africa · Google DeepMind Scholar |
-| 2025 – 2026 | R&D Developer, Inov Services Research Lab, Cotonou · air-quality research, supervised interns on AI, data, security and systems projects |
-| Before | Bachelor's in Mathematics and Bachelor's in Computer Science, Benin |
-
-### 🛠️ Toolbox
-
-- **Languages:** Python, R, C, Java, SQL
-- **ML & data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, deep learning
-- **Tools:** Git, PostgreSQL, Google Cloud, Django
-
-### 🏆 Also
-
-- Google Cloud skill badges · IBM Data Science Specialization
-- Hackathon *Défi des Innovateurs*: a project to solve money-transfer problems in Africa
-- I enjoy tutoring mathematics and sharing what I learn
+`Python` `Django` `REST APIs` `PostgreSQL` `SQL` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Git` `Google Cloud` `C` `Java` `R`
 
 ### 📫 Contact
 
