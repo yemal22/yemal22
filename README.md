@@ -1,42 +1,43 @@
-# 👋 Bienvenue sur mon GitHub !
+<sub><code>NOTEBOOK · 2026</code> &nbsp;·&nbsp; ● open to PhD & research opportunities</sub>
 
-Je suis **Morel KPAVODE**, passionné de **Data Science** et de **technologies innovantes**, avec un background en **Mathématiques** et en **Technologies de l'Information et de la Communication**. Actuellement, je me forme activement pour devenir **Data Scientist**, avec une volonté d'acquérir des compétences en développement web afin de pouvoir intégrer des solutions de science des données dans des environnements applicatifs.
+# Morel Yemalin KPAVODE
 
-## 🎓 Mon parcours académique
+**Data & AI for science, for real impact in Africa.**<br>
+↳ *Field, data, model — in that order.*
 
-- **Licence en Mathématiques** : où j'ai acquis des bases solides en analyse de données et en programmation (C, R).
-- **Licence en Technologies de l'Information et de la Communication** : spécialisée en programmation orientée objet (Java), modélisation (UML) et bases de données (PostgreSQL).
+I'm a **Google DeepMind Scholar** in the **AI for Science Master's** at [AIMS South Africa](https://ai.aims.ac.za/) (MSc Mathematical Sciences, Stellenbosch University, 2026–2027). I use data and computational tools to solve real-world problems, with a focus on climate and the environment in West Africa.
 
-## 🛠️ Compétences techniques
+---
 
-- **Langages de programmation** : Python, R, C, Java
-- **Outils et bibliothèques** : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Cloud** : Google Cloud (plusieurs badges obtenus)
-- **Bases de données** : SQL, PostgreSQL
-- **Développement web** : HTML, CSS, Django (auto-formation continue pour intégrer la Data Science aux applications web)
-- **Autres** : Git, gestion de projet, analyse exploratoire des données, Test Driven Developpement
+### 📓 Research
 
-## 🌱 Actuellement en auto-formation sur
+First author of two papers accepted and presented at **EAI AFRICATEK 2026** (proceedings forthcoming), written at the Inov Services Research Lab in Cotonou:
 
-- **Data Science** : Approfondir mes compétences en visualisation de données et en apprentissage automatique.
-- **Django** : Apprendre à intégrer les modèles de data science dans des applications web, pour rendre mes analyses de données facilement accessibles via le web.
-- **Outils du web** : Je souhaite maîtriser les bases du développement web pour mieux déployer mes projets de data science et élargir leurs applications.
+- *A Pattern Scaling Approach Based on Vapor Pressure Deficit for Air Quality in West Africa: Modeling and Projecting PM2.5 Concentrations in Cotonou, Benin (2025–2100)*
+- *State of Art of Air Quality Monitoring in West Africa. Specific Case of Benin: Toward a Framework for Tools and Reproducible Methodologies for Long-Term Modeling*
 
-## 🏆 Réalisations et certifications
+**Currently exploring:** AI for climate & environment · ecology · computer vision
 
-- **Badges Google Cloud** : Reconnaissances officielles de mes compétences en Cloud Computing.
-- **Hackathon du Défi des Innovateurs** : Participation avec un projet innovant pour résoudre les problèmes liés aux transferts d'argent en Afrique.
+### 🧭 Path
 
-## 🤝 Ce que je cherche
+| When | What |
+|---|---|
+| 2026 – 2027 | MSc Mathematical Sciences (AI for Science), AIMS South Africa · Google DeepMind Scholar |
+| 2025 – 2026 | R&D Developer, Inov Services Research Lab, Cotonou · air-quality research, supervised interns on AI, data, security and systems projects |
+| Before | Bachelor's in Mathematics and Bachelor's in Computer Science, Benin |
 
-Je suis ouvert à des collaborations en Data Science et en développement web, ainsi qu’à des opportunités pour intégrer des compétences en web dans mes projets de data science. Je serais également heureux de rejoindre des équipes travaillant sur des projets à impact social.
+### 🛠️ Toolbox
 
-## 📫 Me contacter
+- **Languages:** Python, R, C, Java, SQL
+- **ML & data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, deep learning
+- **Tools:** Git, PostgreSQL, Google Cloud, Django
 
-- **LinkedIn** : [Mon profil LinkedIn](https://linkedin.com/in/morel-kpavode)
-- **Email** : yemalem03@gmail.com
-- **Téléphone** : +22995754157
+### 🏆 Also
 
-## ✨ Un peu plus sur moi
+- Google Cloud skill badges · IBM Data Science Specialization
+- Hackathon *Défi des Innovateurs*: a project to solve money-transfer problems in Africa
+- I enjoy tutoring mathematics and sharing what I learn
 
-En dehors de la Data Science, j'aime aider les élèves en mathématiques et partager mes connaissances. Mon objectif est de devenir un **Data Scientist** avec une maîtrise des **outils du web**, pour concevoir des solutions applicables aux besoins de l'Afrique.
+### 📫 Contact
+
+[Website](https://yemalin-ui.vercel.app/) · [LinkedIn](https://linkedin.com/in/morel-kpavode) · yemalem03@gmail.com
